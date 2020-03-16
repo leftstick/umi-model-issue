@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "dependencies": {
+    "@umijs/preset-react": "1.x",
+    "umi": "^3.0.8"
+  }
+}
